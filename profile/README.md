@@ -10,17 +10,17 @@
 
 <table align="center" width="100%" border="0">
     <tr >
-        <td width="25%" align="center">&nbsp;</td>
-        <td width="20%" align="center">
+        <td width="20%" align="center">&nbsp;</td>
+        <td width="25%" align="center">
             <img style="max-height: 10%" src="https://github.com/myziyue/.github/blob/main/assets/WeChatPay.JPG" alt="微信支付" />
             <p>WeChat Pay</p>
         </td>
         <td width="10%" align="center">&nbsp;</td>
-        <td width="20%" align="center">
+        <td width="25%" align="center">
             <img style="max-height: 10%" src="https://github.com/myziyue/.github/blob/main/assets/AliPay.JPG" alt="支付宝支付" />
             <p>AliPay</p>
         </td>
-        <td width="25%" align="center">&nbsp;</td>
+        <td width="20%" align="center">&nbsp;</td>
     </tr>
 </table>
 
