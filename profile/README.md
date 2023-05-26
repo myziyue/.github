@@ -9,11 +9,11 @@
 
 <div style="display: flex; gap: 20px;">
 	<div style="text-align: center">
-		<img style="max-width: 100%" src="https://github.com/myziyue/.github/blob/main/assets/WeChatPay.JPG" alt="微信支付" />
+		<img style="max-width: 25%" src="https://github.com/myziyue/.github/blob/main/assets/WeChatPay.JPG" alt="微信支付" />
 		<p>WeChat Pay</p>
 	</div>
 	<div style="text-align: center">
-		<img style="max-width: 100%" src="https://github.com/myziyue/.github/blob/main/assets/AliPay.JPG" alt="支付宝支付" />
+		<img style="max-width: 25%" src="https://github.com/myziyue/.github/blob/main/assets/AliPay.JPG" alt="支付宝支付" />
 		<p>AliPay</p>
 	</div>
 </div>
