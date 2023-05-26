@@ -10,11 +10,12 @@
 
 <table align="center" width="100%" border="0">
     <tr >
-        <td width="50%" align="center">
+        <td width="40%" align="center">
             <img style="max-height: 10%" src="./assets/WeChatPay.JPG" alt="微信支付" />
             <p>WeChat Pay</p>
         </td>
-        <td width="50%" align="center">
+        <td width="20%" align="center">&nbsp;</td>
+        <td width="40%" align="center">
             <img style="max-height: 10%" src="./assets/AliPay.JPG" alt="支付宝支付" />
             <p>AliPay</p>
         </td>
