@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Welcome to MyZiyue Team!**
+<!-- **Welcome to MyZiyue Team!** -->
 
 > 声明：此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
 
@@ -8,14 +8,14 @@
 
 如果你觉得这个项目对你有帮助，并且情况允许的话，可以给我一点点支持，总之非常感谢支持～
 
-<table style="text-align: center;">
-    <tr>
-        <td width="50%">
-            <img style="max-width: 25%" src="./assets/WeChatPay.JPG" alt="微信支付" />
+<table align="center" width="100%" border="0">
+    <tr >
+        <td width="50%" align="center">
+            <img style="max-width: 30%" src="./assets/WeChatPay.JPG" alt="微信支付" />
             <p>WeChat Pay</p>
         </td>
-        <td width="50%">
-            <img style="max-width: 25%" src="./assets/AliPay.JPG" alt="支付宝支付" />
+        <td width="50%" align="center">
+            <img style="max-width: 30%" src="./assets/AliPay.JPG" alt="支付宝支付" />
             <p>AliPay</p>
         </td>
     </tr>
